@@ -57,7 +57,7 @@ const Shirt = () => {
                rotation={[0,0,0]}
                scale={0.15}
                map={logoTexture}
-               map-anisotropy={16} // changing quality of the texture
+               // changing quality of the texture
                depthTest={false}
                depthWrite={true}
             />
